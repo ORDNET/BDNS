@@ -1,7 +1,7 @@
 <h1>BDNS - .₿itcoin Domain Name Server</h1>
 &nbsp;
 
-<i></i>Version 0.1</i>
+<i></i>Version 0.2</i>
 &nbsp;
 
 This concerns a concept note to see to what extent it is possible to easily link ordinal SNS addresses to a wallet, inscription or transaction for easy receipt of coins and tokens and viewing ordinals via a(n) (ordinal) browser.
@@ -68,7 +68,7 @@ The following code could be inscribed via <a href="https://1satordinals.com/" ta
    
 3. Through the Flag-System one can flag an ordinal if the content is not "correct"
    
-4. Through the ₿list for SNS and wallets that have been flagged multiple times in the flag-system
+4. Through the ₿list for SNS and wallets that have been flagged multiple times in the flag-system one can be blocked
    
 &nbsp;
 
